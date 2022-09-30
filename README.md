@@ -4,7 +4,7 @@
 ⚡ Fun fact:
 - 👯 Self-taught engineer
 - ❤️ Learning Flutter, Android, Embebded, Cloud
-- 🌱 Made Hit Notes https://play.google.com/store/apps/details?id=com.chaomao.hittick
+- 🌱 Made Flutter Rhythm https://play.google.com/store/apps/details?id=com.chaomao.hittick
 
 :coffee: Let's Connect
 <p align="center">
